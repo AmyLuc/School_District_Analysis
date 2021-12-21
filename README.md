@@ -11,13 +11,14 @@ After removing the math and reading scores from Thomas High School 9th graders, 
 * The average math score fell by 0.1%
 * The percentage of students passing math fell by 0.2%
 * The average reading score fell by <0.1%
-* The percentage of students passing reading fell by 0.3%
-* The overall passing percentage fell by 0.1%, 
+* The percentage of students passing reading fell by 0.1%
+* The overall passing percentage fell by 0.3%, 
 
-The discrepency between how little the average reading fell, despite the percentage of students passing reading falling by 0.3% could possibly be explained by the removed reading scores being over-represented with students who barely passed, thus their grades would fall closer to the average.
+The slight discrepencies between how little the averages fell, despite the percentage of students passing each category falling more could possibly be explained by the removed scores being over-represented with students who barely passed, thus their grades would fall closer to the average.
 
 ###### Original District Summary
-<img width="616" alt="District_Summary_Analysis_Or" src="https://user-images.githubusercontent.com/91698325/146835363-1b1aee7c-8bc4-479b-acd7-b8cb788e6583.png">
+<img width="613" alt="District_Summary_Analysis_Or" src="https://user-images.githubusercontent.com/91698325/146851503-dd6bb553-0ca5-4eaa-b48e-8b00f676c26c.png">
+
 
 ###### Repeated District Summary
 <img width="612" alt="District_Summary_Analysis_Re" src="https://user-images.githubusercontent.com/91698325/146835675-4433343f-4b67-412f-bea7-d8903b456a46.png">
@@ -56,7 +57,8 @@ The discrepency between how little the average reading fell, despite the percent
 ### Scores by Spending per Student
 
 ###### Original
-<img width="793" alt="scores_by_spending_Or" src="https://user-images.githubusercontent.com/91698325/146848085-92a23940-4ba0-4b7c-a823-7da8e8a68601.png">
+<img width="795" alt="scores_by_spending_Or" src="https://user-images.githubusercontent.com/91698325/146851343-5e29385b-558f-40e4-b3b6-5a18e8b90944.png">
+
 
 
 ###### Repeated
