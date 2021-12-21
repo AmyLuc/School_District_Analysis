@@ -27,21 +27,22 @@ The slight discrepencies between how little the averages fell, despite the perce
 
 ### 9th Grade Scores
  
+* Reading scores fell by about 0.1%
+* Math scores fell by about 0.2%
+ 
 ###### Original
 <img width="615" alt="9th_grade_scores_Or" src="https://user-images.githubusercontent.com/91698325/146837427-3e4984b7-5c5a-41ce-ac38-4ff579eb4cc7.png">
 
 ###### Repeated
 <img width="617" alt="9th_grade_scores_Re" src="https://user-images.githubusercontent.com/91698325/146837475-dc8a37c8-6499-4fab-af33-5c0303057dbc.png">
 
-* Reading scores fell by about 0.1%
-* Math scores fell by about 0.2%
+
 
 ---
 
 ### Scores by School Size
 
-*
-*
+* Only the percent passing reading in medium schools was at all affected. Even then, it was only by a 0.1% decrease. 
 
 
 ###### Original
@@ -56,6 +57,8 @@ The slight discrepencies between how little the averages fell, despite the perce
 ---
 ### Scores by Spending per Student
 
+* The percent of students passing reading and passing overall each fell by 0.1% for schools in the $630-644 bin.
+
 ###### Original
 <img width="795" alt="scores_by_spending_Or" src="https://user-images.githubusercontent.com/91698325/146851343-5e29385b-558f-40e4-b3b6-5a18e8b90944.png">
 
@@ -68,6 +71,8 @@ The slight discrepencies between how little the averages fell, despite the perce
 ---
 ### Scores by School Type
 
+* For all intents and purposes, this analysis was not affected by removing the compromised data. 
+
 ###### Original
 <img width="718" alt="scores_by_type_Or" src="https://user-images.githubusercontent.com/91698325/146851064-7dbb6a56-a086-48c6-9706-0739487045f6.png">
 
@@ -78,6 +83,8 @@ The slight discrepencies between how little the averages fell, despite the perce
 
 ---
 ## Analysis of each School
+
+* The other schools' results were not affected by removing the 9th grade Thomas High School data. 
 
 ###### Original
 <img width="999" alt="School_Summary_Analysis_Or1:2" src="https://user-images.githubusercontent.com/91698325/146848917-9fb2a3a7-da74-4724-a94f-2d3b90f504b1.png">
@@ -93,7 +100,13 @@ The slight discrepencies between how little the averages fell, despite the perce
 #### Thomas High School
 
 * Thomas High School ranked second in overall passing for both analyses. 
-* 
+* Average reading rose by 0.1%
+* Average math stayed the same.
+* Percent passing math fell by 0.1%
+* Percent passing reading fell by 0.3%
+* Percent passing overall fell by 0.3%
+
+Here the differences in changes between the averages and the percentages of passing students is more obvious. There were likely a number of barely failing students who had their grades boosted to a passing. While removing the affected data barely changed any of the statistics, it's possible that the true data would have cost Thomas High School a spot in their ranking. 
 
 ###### Original
 <img width="787" alt="Thomas_ranks_Or" src="https://user-images.githubusercontent.com/91698325/146849296-096b4425-64df-4a57-be45-9004b53143bf.png">
