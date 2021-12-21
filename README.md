@@ -44,7 +44,8 @@ The discrepency between how little the average reading fell, despite the percent
 
 
 ###### Original
-<img width="789" alt="scores_by_size_Or" src="https://user-images.githubusercontent.com/91698325/146848070-27fffeae-ade3-45d2-9279-86af6a6376fb.png">
+<img width="783" alt="scores_by_size_Or" src="https://user-images.githubusercontent.com/91698325/146850940-950c720b-f5a2-4da5-8642-ad3bffddb3ed.png">
+
 
 
 ###### Repeated
@@ -66,7 +67,7 @@ The discrepency between how little the average reading fell, despite the percent
 ### Scores by School Type
 
 ###### Original
-<img width="785" alt="scores_by_type_Or" src="https://user-images.githubusercontent.com/91698325/146848108-7114409d-6df5-419f-8142-d467c86c4bb2.png">
+<img width="718" alt="scores_by_type_Or" src="https://user-images.githubusercontent.com/91698325/146851064-7dbb6a56-a086-48c6-9706-0739487045f6.png">
 
 
 ###### Repeated
