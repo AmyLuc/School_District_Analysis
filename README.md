@@ -39,39 +39,62 @@ The discrepency between how little the average reading fell, despite the percent
 
 ### Scores by School Size
 
+*
+*
+
+
 ###### Original
+<img width="789" alt="scores_by_size_Or" src="https://user-images.githubusercontent.com/91698325/146848070-27fffeae-ade3-45d2-9279-86af6a6376fb.png">
 
 
 ###### Repeated
+<img width="790" alt="scores_by_size_Re" src="https://user-images.githubusercontent.com/91698325/146848078-26a34eef-26d7-4dbf-81dc-385ffe56f041.png">
+
 
 ---
 ### Scores by Spending per Student
 
 ###### Original
+<img width="793" alt="scores_by_spending_Or" src="https://user-images.githubusercontent.com/91698325/146848085-92a23940-4ba0-4b7c-a823-7da8e8a68601.png">
 
 
 ###### Repeated
+<img width="788" alt="scores_by_spending_Re" src="https://user-images.githubusercontent.com/91698325/146848096-8d3ec188-8b0f-4f3f-a9c9-8e0993983b94.png">
+
 
 ---
 ### Scores by School Type
 
 ###### Original
+<img width="785" alt="scores_by_type_Or" src="https://user-images.githubusercontent.com/91698325/146848108-7114409d-6df5-419f-8142-d467c86c4bb2.png">
 
 
 ###### Repeated
+<img width="787" alt="scores_by_type_Re" src="https://user-images.githubusercontent.com/91698325/146848111-039585d7-6bc4-433d-9410-1e75c29cf73b.png">
+
 
 ---
 ## Analysis of each School
 
 ###### Original
+<img width="999" alt="School_Summary_Analysis_Or1:2" src="https://user-images.githubusercontent.com/91698325/146848917-9fb2a3a7-da74-4724-a94f-2d3b90f504b1.png">
+<img width="974" alt="School_Summary_Analysis_Or2:2" src="https://user-images.githubusercontent.com/91698325/146848923-4b043bfb-c235-4f3f-8eee-a35689a5458c.png">
 
 
 ###### Repeated
+<img width="993" alt="school_summary_analysis_Re1:2" src="https://user-images.githubusercontent.com/91698325/146848935-d7e9fea9-228d-41e5-ad8c-6c44a664a379.png">
+<img width="986" alt="school_summary_analysis_Re2:2" src="https://user-images.githubusercontent.com/91698325/146848938-f094fbce-2897-44ed-85e5-1acb8da2091e.png">
+
 
 ---
 #### Thomas High School
 
+* Thomas High School ranked second in overall passing for both analyses. 
+* 
+
 ###### Original
+<img width="787" alt="Thomas_ranks_Or" src="https://user-images.githubusercontent.com/91698325/146849296-096b4425-64df-4a57-be45-9004b53143bf.png">
 
 
 ###### Repeated
+<img width="790" alt="Thomas_rank_Re" src="https://user-images.githubusercontent.com/91698325/146849273-9b7ade17-5daf-44ad-ae60-aa322b2bfe8f.png">
